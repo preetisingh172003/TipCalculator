@@ -1,0 +1,3 @@
+# TipCalculator
+This is a normal Tip Calculator.. like if you are going outside nd chilling with your friends in a reastro nd you r giving some tips to the waiter nd you want to
+split your bill into your friends then you can use this tip calculator...
